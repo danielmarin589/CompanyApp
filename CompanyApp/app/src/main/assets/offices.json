@@ -1,0 +1,28 @@
+{
+	"offices": [
+		{
+			"name": "Office 1",
+			"address":"5019  Maxwell Street",
+			"headquarter":"HQ: no"
+			
+		},
+		
+		{
+			"name": "Office 2",
+			"address":"16  Hinkle Deegan Lake Road",
+			"headquarter":"HQ: yes"
+		},
+		
+		{
+			"name": "Office 3",
+			"address":"1460  Mulberry Street",
+			"headquarter":"HQ: no"
+		},
+
+		{
+			"name": "Office 4",
+			"address":"4071  McDowell Street",
+			"headquarter":"HQ: no"
+		}
+	]
+}
